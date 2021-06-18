@@ -1,6 +1,6 @@
 [⬅ Back to 🍕](https://github.com/qudo-lucas/state-machine-snacks)
 
-# 🔌 Plugin Template
+# 🔌 Plugin Development Template
 
 Template for developing [State Machine Snacks](https://github.com/qudo-lucas/state-machine-snacks) plugins.
 
