@@ -1,4 +1,4 @@
-[⬅ Back to 🍕](https://github.com/qudo-lucas/state-machine-snacks)
+[⬅ Back to 🔌](https://github.com/qudo-lucas/state-machine-snacks/blob/main/docs/plugin-development.md)
 
 # 🔌 Plugin Development Template
 
